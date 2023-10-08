@@ -14,7 +14,6 @@
 * 安全header：`koa-helmet`
 * 数据json：`koa-json`
 * body解析：`koa-bodyparser`
-* 接口文档：`apidoc`
 * 日期格式化：`moment`
 * 二维码：`svg-captcha`
 * 作业调度（定时器）：`node-schedule`
@@ -27,6 +26,8 @@
 * 数据库插件：`Mongoose`
 * 上传：`@koa/multer`
 * 路径别名：`module-alias`
+* 接口文档：`swagger-jsdoc`+`koa2-swagger-ui`
+* 接口文档：`apidoc`
 
 
 
